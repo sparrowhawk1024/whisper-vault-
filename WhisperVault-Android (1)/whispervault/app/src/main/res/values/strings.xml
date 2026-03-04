@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Whisper Vault</string>
+    <string name="channel_messages">Messages</string>
+    <string name="channel_security">Security</string>
+    <string name="channel_tor">Tor Network</string>
+    <string name="tagline">Encrypted. Anonymous. Yours.</string>
+</resources>
